@@ -197,6 +197,11 @@
   }
   .map {
     margin-top: 20px;
+    margin-bottom: 200px;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+
   }
   #cta {
     padding: 20px 0;
