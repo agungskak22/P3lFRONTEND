@@ -1071,11 +1071,11 @@ hr {
 
 .testimonial-item .img-thumb {
   position: relative;
-  margin: 15px 15px 15px 0;
+  margin: 10px 10px 10px 0;
 }
 
 .testimonial-item .img-thumb img {
-  border-radius: 50%;
+  border-radius: 10%;
   display: inline-block;
   width: inherit;
   padding: 7px;
